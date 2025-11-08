@@ -8,8 +8,7 @@ venv/
 .env.*
 *.env
 
-# Output files
-outputs/
+
 
 # OS files
 .DS_Store
